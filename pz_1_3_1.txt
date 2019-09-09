@@ -3,3 +3,4 @@ git config ––global user.email “shkiper13579017@gmail.com”
 git init
 git clone https://github.com/Black7Lord/Dryha_WEB.git
 git add .
+git commit -m "First commit for Dryha`s file."
