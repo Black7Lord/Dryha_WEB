@@ -5,3 +5,4 @@ git clone https://github.com/Black7Lord/Dryha_WEB.git
 git add .
 git commit -m "First commit for Dryha`s file."
 git add .
+git commit -m "Second commit for Dryha`s file."
