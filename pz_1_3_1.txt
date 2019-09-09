@@ -1,3 +1,4 @@
 git config ––global user.name “Black7Lord”
 git config ––global user.email “shkiper13579017@gmail.com”
+git init
 
