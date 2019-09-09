@@ -1,4 +1,4 @@
 git config ––global user.name “Black7Lord”
 git config ––global user.email “shkiper13579017@gmail.com”
 git init
-
+git clone https://github.com/Black7Lord/Dryha_WEB.git
